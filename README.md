@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17394577.svg)](https://doi.org/10.5281/zenodo.17394577)
+
 ## Quick start
 python -m venv .venv
 # Windows: .venv\Scripts\activate   |  Linux/macOS: source .venv/bin/activate
