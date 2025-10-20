@@ -1,0 +1,9 @@
+pandas==2.2.*
+numpy==1.26.*
+pytz==2024.1
+ultralytics==8.*
+opencv-python==4.9.*
+matplotlib==3.8.*
+shapely==2.0.*
+python-dotenv==1.0.*
+requests==2.*
